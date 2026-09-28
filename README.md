@@ -34,22 +34,6 @@ python pesquisa_satisfacao.py
 
 O programa solicitará os dados dos 50 entrevistados.
 
-## Validação com 10 entrevistados
-
-Foi criado o arquivo `teste_10_entrevistados.py` para validar a lógica com 10 registros.
-
-Execute:
-
-```bash
-python teste_10_entrevistados.py
-```
-
-Resultado esperado:
-
-- EXCELENTE: 4
-- RUIM: 3
-- TESTE APROVADO!
-
 ## Estruturas utilizadas
 
 ### Estrutura de repetição
